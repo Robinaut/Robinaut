@@ -1,4 +1,4 @@
-## Hi there 👋
+## Big fan of the [Bigrat](https://bigrat.monster) 🐀
 
 <!--
 **Robinaut/Robinaut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
