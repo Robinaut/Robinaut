@@ -7,5 +7,10 @@
 > "Photos Printed"
 
 <a href="https://bigrat.monster" >
-  <img src="https://bigrat.monster/media/bigrat.jpg" width="100%">
+  <img src="https://bigrat.monster/media/bigrat.jpg" width="65%" h>
 </a>
+
+---
+
+Check [my Page](https://robinaut.github.io) out
+> "That's pretty neat"
